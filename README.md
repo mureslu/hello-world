@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Editing a text document, my first attempt to play with GitHub ...
